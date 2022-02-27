@@ -16,4 +16,12 @@ pipwin install pyaudio
 
 
 
-#crd_FROM_NeuralNine_YoutubeChannel
+# 
+#
+#
+#
+#
+#
+#
+#
+crd_FROM_NeuralNine_YoutubeChannel
