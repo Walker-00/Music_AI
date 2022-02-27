@@ -1,0 +1,12 @@
+{"intents":
+[
+  {"tag": "greeting",
+  "patterns": ["Yo Man", "Hello", "Hi ai", "Hi man", "Hi Nano"],
+  "responses":  [""]},
+  {"tag": "Music",
+  "patterns": ["Music", "Open Music", "Open Song"],
+  "responses":  [""]},
+  {"tag": "exit",
+  "patterns": ["Exit", "Bye Nano", "By Man", "Goodbye", "Bye Bye"],
+  "responses":  [""]}
+]}
