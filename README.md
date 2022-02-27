@@ -1,5 +1,5 @@
 # Music_AI
-Music Voice Assistant in Python
+Music Voice Assistant AI in Python.
 
 
 # Modules installing
