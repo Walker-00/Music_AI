@@ -2,7 +2,7 @@
 Music Voice Assistant in Python
 
 
-#Modules installing
+# Modules installing
 
 pip install neuralintents
 pip install pyttsx3
